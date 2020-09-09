@@ -1,0 +1,2 @@
+jupyterlab>=2.0.0,<3.0.0
+tensorflow-data-validation==0.23.0
